@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2> Hello there, I'm Ilker Sen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkersen3&label=Profile%20views&color=0e75b6&style=flat" alt="ilkersen3" /> </p>
+<h3 align="center">I am a <u>software developer</u> experienced in designing and building distributed,<br> scalable systems using golang, php, nodejs and javascript. </h3>
+<br>
+- 🌱 I’m currently learning #Golang
+<br>
+- 📫 Contact **ilker@email.com**<br><br>
 
-<!--
-**ilkersen3/ilkersen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail&logoColor=white)](mailto:ilker@email.com)
+[![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](https://ilker.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remziilkersen/)
+[![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ilker_sen)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 My Tech Stack
+
+-  **Language:**  Go, Php, JavaScript, NodeJS
+-  **Database:** SQL, PostgreSQL, MongoDB, Mysql
+-  **Queue:**  Apache Kafka, RabbitMQ, ElasticSearch
+-  **DevOps:**  Docker, Amazon Web Services (AWS), Google Cloud, Kubernetes
