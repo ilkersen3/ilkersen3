@@ -1,8 +1,8 @@
 <h2> Hello there, I'm Ilker Sen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkersen3&label=Profile%20views&color=0e75b6&style=flat" alt="ilkersen3" /> </p>
-<h3 align="center">I am a <u>software developer</u> experienced in designing and building distributed,<br> scalable systems using golang, php, nodejs and javascript. </h3>
+<h3 align="center">I am a <u>software engineer</u> experienced in designing and building distributed,<br> scalable systems using golang, java, nextjs and javascript. </h3>
 <br>
-- 🌱 I’m currently learning #Golang
+- 🌱 I’m currently learning #Java
 <br>
 - 📫 Contact **ilker@email.com**<br><br>
 
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 My Tech Stack
 
--  **Language:**  Go, Php, JavaScript, NodeJS
--  **Database:** SQL, PostgreSQL, MongoDB, Mysql
--  **Queue:**  Apache Kafka, RabbitMQ, ElasticSearch
--  **DevOps:**  Docker, Amazon Web Services (AWS), Google Cloud, Kubernetes
+-  **Language:**  Java, Golang, Nextjs, PHP
+-  **Database:** PostgreSQL, MongoDB, Mysql
+-  **Queue:**  Elasticsearch, RabbitMQ, Apache Kafka
+-  **DevOps:**  Kubernetes, Docker, AWS, Azure, Github Actions CI/CD Pipelines
